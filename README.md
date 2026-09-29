@@ -7,7 +7,9 @@ Guiding questions
 Is tourism growing year over year?
 Which destinations perform best, and why?
 Who is the typical visitor, and what do they do?
-When and how is revenue actually earned?📊 Dataset
+When and how is revenue actually earned?
+
+📊 Dataset
 Source: Tourism_Data table (~2,500 tourist records)
 Time range: 2022 – 2025
 Fields include: Tourist ID, Destination, Tourist Type (Domestic/International), Age Group, Gender, Travel Purpose, Transport Mode, Accommodation, Season, Month, Stay Days, Satisfaction Rating, and a spending breakdown (Hotel, Food, Transport, Activity, Shopping)
