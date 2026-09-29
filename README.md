@@ -4,10 +4,10 @@ An interactive Power BI dashboard analyzing tourist trends, visitor behaviour, d
 📌 Project Overview
 Tamil Nadu welcomes millions of domestic and international visitors every year, but raw tourism data — arrivals, spending, destinations, seasonality — is hard to read at a glance. This project consolidates that data into a single Power BI report so trends, destination performance, and visitor behaviour can be understood in seconds instead of spreadsheets.
 Guiding questions
-Is tourism growing year over year?
-Which destinations perform best, and why?
-Who is the typical visitor, and what do they do?
-When and how is revenue actually earned?
+-> Is tourism growing year over year?
+-> Which destinations perform best, and why?
+-> Who is the typical visitor, and what do they do?
+-> When and how is revenue actually earned?
 
 📊 Dataset
 Source: Tourism_Data table (~2,500 tourist records)
@@ -17,16 +17,16 @@ Replace this section with your actual data source (e.g. Kaggle dataset link, gov
 
 🧮 Key DAX Measures
 16 measures power every visual in the report, grouped as:
-Group
-Measures
-Core KPIs
-Total Tourists, Total Revenue, Average Spending, Average Stay, Average Satisfaction
-Visitor Segmentation
-Domestic Tourists, International Tourists, Domestic %, International %
-Category Revenue
-Hotel Revenue, Food Revenue, Transport Revenue, Activity Revenue, Shopping Revenue
-Derived Metrics
-Revenue per Tourist, Average Spend per Day
+. Group
+. Measures
+. Core KPIs
+. Total Tourists, Total Revenue, Average Spending, Average Stay, Average Satisfaction
+. Visitor Segmentation
+. Domestic Tourists, International Tourists, Domestic %, International %
+. Category Revenue
+. Hotel Revenue, Food Revenue, Transport Revenue, Activity Revenue, Shopping Revenue
+. Derived Metrics
+. Revenue per Tourist, Average Spend per Day
 
 
 🖥️ Dashboard Pages
@@ -52,17 +52,17 @@ Monthly and seasonal revenue/arrival trends, a spending-category breakdown, annu
 
 
 💡 Key Insights
-Steady growth, then a plateau — arrivals and revenue rose from 2022–2024, easing slightly in 2025.
-Chennai anchors the map — leads every destination on both arrivals and revenue.
-Leisure & heritage drive travel — together they account for the majority of trips.
-International visitors spend more — higher per-person spending despite domestic tourists being the larger group.
-Peak season carries the year — contributes the bulk of annual tourists and revenue.
+-> Steady growth, then a plateau — arrivals and revenue rose from 2022–2024, easing slightly in 2025.
+-> Chennai anchors the map — leads every destination on both arrivals and revenue.
+-> Leisure & heritage drive travel — together they account for the majority of trips.
+-> International visitors spend more — higher per-person spending despite domestic tourists being the larger group.
+-> Peak season carries the year — contributes the bulk of annual tourists and revenue.
 
 🛠️ Tools Used
-Power BI Desktop — report & visuals
-Power Query — data cleaning & load
-DAX — 16 custom measures
-Interactive slicers across all 4 pages
+- Power BI Desktop — report & visuals
+- Power Query — data cleaning & load
+- DAX — 16 custom measures
+- Interactive slicers across all 4 pages
 
 📁 Repository Structure
 Code
